@@ -1,6 +1,5 @@
-# GrafoNaoDirigidosConexosAleatorio
-GrafoNaoDirigidosConexosAleatorio
-ta todo descrito o codigo
+# Grafo
+
 ```python
 def  GrafoNaoDirigidosConexosAleatorio(grafo, vertice_do_grafo):
     fila = [] # fila da busca, afinal ela eh em largura! .append(elemento) -> adiciona elemento na fila ; .pop(0) -> proximo na fila
